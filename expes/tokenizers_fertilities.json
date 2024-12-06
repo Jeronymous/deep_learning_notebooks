@@ -1,0 +1,72 @@
+{
+  "wikimedia/wikipedia/20231101.en": {
+    "gpt-4": 1.3809220628440881,
+    "google/gemma-7b": 1.3943485262724242,
+    "microsoft/Phi-3-medium-4k-instruct": 1.64767237182128,
+    "mistralai/Mistral-7B-v0.1": 1.6146211752368824,
+    "meta-llama/Meta-Llama-3-8B-Instruct": 1.3791118934371995,
+    "Qwen/Qwen2.5-7B": 1.4221377476499009,
+    "bigscience/bloom-7b1": 1.3755539742581426,
+    "croissantllm/CroissantLLMBase": 1.5767012471443018,
+    "utter-project/EuroLLM-9B": 1.5209480294121318,
+    "OpenLLM-France/Lucie-7B": 1.5008114552513638,
+    "CohereForAI/c4ai-command-r-plus": 1.3982310275520267,
+    "allenai/OLMo-2-1124-7B-Instruct": 1.4215510030835299
+  },
+  "wikimedia/wikipedia/20231101.fr": {
+    "gpt-4": 1.8529395175694223,
+    "google/gemma-7b": 1.6441557464889356,
+    "microsoft/Phi-3-medium-4k-instruct": 1.996634642501269,
+    "mistralai/Mistral-7B-v0.1": 2.0805805711707306,
+    "meta-llama/Meta-Llama-3-8B-Instruct": 1.8492545451127114,
+    "Qwen/Qwen2.5-7B": 1.8761398033427965,
+    "bigscience/bloom-7b1": 1.422223893411545,
+    "croissantllm/CroissantLLMBase": 1.5804959672112655,
+    "utter-project/EuroLLM-9B": 1.734124223680335,
+    "OpenLLM-France/Lucie-7B": 1.5905920397074582,
+    "CohereForAI/c4ai-command-r-plus": 1.586136231175619,
+    "allenai/OLMo-2-1124-7B-Instruct": 1.9298413832434025
+  },
+  "wikimedia/wikipedia/20231101.de": {
+    "gpt-4": 2.7174367093937914,
+    "google/gemma-7b": 2.438275867877175,
+    "microsoft/Phi-3-medium-4k-instruct": 2.993447758931429,
+    "mistralai/Mistral-7B-v0.1": 3.1795634085128603,
+    "meta-llama/Meta-Llama-3-8B-Instruct": 2.7094359008910374,
+    "Qwen/Qwen2.5-7B": 2.90382185989321,
+    "bigscience/bloom-7b1": 2.6884569388064476,
+    "croissantllm/CroissantLLMBase": 3.4861880779531407,
+    "utter-project/EuroLLM-9B": 2.580058616449662,
+    "OpenLLM-France/Lucie-7B": 2.7991207532550657,
+    "CohereForAI/c4ai-command-r-plus": 2.4974144755680574,
+    "allenai/OLMo-2-1124-7B-Instruct": 2.7920463541578937
+  },
+  "wikimedia/wikipedia/20231101.es": {
+    "gpt-4": 1.8225358585955305,
+    "google/gemma-7b": 1.5613474022865241,
+    "microsoft/Phi-3-medium-4k-instruct": 1.9952571541648314,
+    "mistralai/Mistral-7B-v0.1": 2.0873181536733116,
+    "meta-llama/Meta-Llama-3-8B-Instruct": 1.815680116432716,
+    "Qwen/Qwen2.5-7B": 1.8497290258335088,
+    "bigscience/bloom-7b1": 1.458626170550949,
+    "croissantllm/CroissantLLMBase": 2.26073523685504,
+    "utter-project/EuroLLM-9B": 1.6609343980798816,
+    "OpenLLM-France/Lucie-7B": 1.7532315823742317,
+    "CohereForAI/c4ai-command-r-plus": 1.5383225773505174,
+    "allenai/OLMo-2-1124-7B-Instruct": 1.8630702745488552
+  },
+  "wikimedia/wikipedia/20231101.it": {
+    "gpt-4": 2.0160554015873338,
+    "google/gemma-7b": 1.7640779775993094,
+    "microsoft/Phi-3-medium-4k-instruct": 2.155867537879554,
+    "mistralai/Mistral-7B-v0.1": 2.2668730065610694,
+    "meta-llama/Meta-Llama-3-8B-Instruct": 2.0103304809877343,
+    "Qwen/Qwen2.5-7B": 2.0686855609275856,
+    "bigscience/bloom-7b1": 1.9323933404810552,
+    "croissantllm/CroissantLLMBase": 2.366233083163069,
+    "utter-project/EuroLLM-9B": 1.7834779735534292,
+    "OpenLLM-France/Lucie-7B": 1.8978887248059664,
+    "CohereForAI/c4ai-command-r-plus": 1.6885279064592478,
+    "allenai/OLMo-2-1124-7B-Instruct": 2.074444197196205
+  }
+}
